@@ -1,0 +1,305 @@
+{
+    "enabled": true,
+    "reload": true,
+    "macros": [
+      {
+        "name": "Luigi Left",
+        "trigger": "DpadLeft",
+        "steps": [
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 45
+          },
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": -127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 5
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 13
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 22
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 28
+          },
+          {
+            "buttons": [],
+            "lstick_x": -127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 6
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 31
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 5
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": 127,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 23
+          },
+          {
+            "buttons": [],
+            "lstick_x": -127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 14
+          },
+          {
+            "buttons": ["Special"],
+            "lstick_x": 0,
+            "lstick_y": 127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          }
+        ]
+      },
+      {
+        "name": "Luigi Right",
+        "trigger": "DpadRight",
+        "steps": [
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 45
+          },
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 5
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": -127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 13
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 22
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 28
+          },
+          {
+            "buttons": [],
+            "lstick_x": 127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": -127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 6
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 31
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 5
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": 127,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 23
+          },
+          {
+            "buttons": [],
+            "lstick_x": 127,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 14
+          },
+          {
+            "buttons": ["Special"],
+            "lstick_x": 0,
+            "lstick_y": 127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          }
+        ]
+      }
+    ]
+  }
+  
