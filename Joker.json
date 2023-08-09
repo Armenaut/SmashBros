@@ -1,0 +1,58 @@
+{
+    "enabled": true,
+    "reload": true,
+    "macros": [
+      {
+        "name": "Leffoble",
+        "trigger": "DpadUp",
+        "steps": [
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 3
+          },
+          {
+            "buttons": ["Attack"],
+            "lstick_x": 0,
+            "lstick_y": 127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 22
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": -127,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+            "hold_frames": 21
+          }
+        ]
+      }
+    ]
+  }
+  
