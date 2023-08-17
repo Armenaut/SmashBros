@@ -11,5 +11,5 @@ Joker = Leffoble //
 KFC = Banjo STC //
 SDI = Maximum SDI //
 Spallow = Ptooie tech //
-Luigi = 0-death (only works on some character/no sdi) //
+Luigi = 0-death (only works on some character/no SDI) //
 macros = Banjo rapid fire //
